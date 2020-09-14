@@ -9,5 +9,4 @@
 view.startAnimation(index); 
 
 //停止动画
-
 view.stopAnimation();
